@@ -25,10 +25,9 @@ Ao final do processamento, qual será o valor da variável SOMA?
 Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.  
 
 5.  Escreva um programa que inverta os caracteres de um string.
-
 IMPORTANTE:
-    A. Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
-    B. Evite usar funções prontas, como, por exemplo, reverse;
+A. Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
+B. Evite usar funções prontas, como, por exemplo, reverse;
 ---
 ## ⚙️ Como Usar
 Clone este repositório no seu computador:
